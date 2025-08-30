@@ -14,7 +14,7 @@ Salt Player *for Android* को Android 6.0 या उससे ऊपर क�
 
 | चैनल | रिलीज़ | परिचय | ⚠️ नोट |
 |:--|:--|:--|:--|
-| Moriafly | 1. [Github Release](https://github.com/Moriafly/SaltPlayerSource/releases) <br> 2. [CoolApk](https://www.coolapk.com/apk/284064) | स्टैंडर्ड पैकेज | Coolapk पर रिलीज़ केवल arm64-v8a आर्किटेक्चर के लिए उपलब्ध है। |
+| Moriafly |[Github Release](https://github.com/Moriafly/SaltPlayerSource/releases)| स्टैंडर्ड पैकेज | Coolapk पर रिलीज़ केवल arm64-v8a आर्किटेक्चर के लिए उपलब्ध है। |
 | Google Play | [Google Play](https://play.google.com/store/apps/details?id=com.salt.music) | गूगल प्ले स्टोर चैनल पैकेज | 1. arm64-v8a और armeabi-v7a आर्किटेक्चर का डायनामिक वितरण सपोर्ट करता है। <br> 2. Google Play संस्करण को Google द्वारा साइन और रिलीज़ किया गया है, जो इसे स्टैंडर्ड पैकेज के साथ **असंगत** बनाता है। <br> 3. यह विशेष स्थिर संस्करण या कस्टम-बिल्ट संस्करणों को चुनता है, जो स्टैंडर्ड पैकेज से अलग अपडेट रणनीति का पालन करता है। |
 
 नोट: कृपया इस ऐप को केवल आधिकारिक चैनलों से डाउनलोड करें। अज्ञात या असत्यापित हस्ताक्षर वाली इंस्टॉलेशन फाइल्स का उपयोग न करें।
