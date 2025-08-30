@@ -14,7 +14,7 @@ Salt Player *для Android* требуется устройство на Androi
 
 | Поставщик | Источник | Описание | ⚠️ Примечание |
 |:--|:--|:--|:--|
-| Moriafly | 1. [Github Release](https://github.com/Moriafly/SaltPlayerSource/releases) <br> 2. [CoolApk](https://www.coolapk.com/apk/284064) | Стандартная версия | Данная версия доступна только на архитектуре arm64-v8a |
+| Moriafly | [Github Release](https://github.com/Moriafly/SaltPlayerSource/releases)| Стандартная версия | Данная версия доступна только на архитектуре arm64-v8a |
 | Google Play | [Google Play](https://play.google.com/store/apps/details?id=com.salt.music) | Пакеты Google Play | 1. Поддерживаются архитектуры arm64-v8a, armeabi-v7a <br> 2. Данная версия подписана и издана корпорацией Google и **НЕСОВМЕСТИМА** со стандартной версией <br> 3. Рекомендуется как канал выпуска стабильных версий, в отличие от стандартной версии |
 
 Примечание: Пожалуйста, устанавливайте это приложение с офицального источника
