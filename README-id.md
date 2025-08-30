@@ -12,7 +12,7 @@ Salt Player *untuk Android* butuh Android 6.0 ke atas dan support buat arsitektu
 
 | Channel | Rilis | Keterangan | ⚠️ Catatan |
 |:--|:--|:--|:--|
-| Moriafly | 1. [Github Release](https://github.com/Moriafly/SaltPlayerSource/releases) <br> 2. [Coolapk](https://www.coolapk.com/apk/284064) | Paket standar | Rilis di Coolapk cuma support arm64-v8a |
+| Moriafly | [Github Release](https://github.com/Moriafly/SaltPlayerSource/releases) | Paket standar | Rilis di Coolapk cuma support arm64-v8a |
 | Google Play | [Google Play](https://play.google.com/store/apps/details?id=com.salt.music) | Paket dari Play Store | 1. Google Play nyesuaiin arsitektur arm64-v8a/armeabi-v7a <br> 2. Versi Google Play ditandatangani sama Google, jadi gak kompatibel sama paket standar di repositori ini <br> 3. Versi di Play Store kadang versi stabil khusus, update bisa beda sama paket standar |
 
 Catatan: Pastikan download aplikasi ini dari sumber yang bener, jangan pakai file instalasi dari sumber yang gak jelas
@@ -79,3 +79,4 @@ Robot Android adalah karya turunan yang dibuat dan dibagikan oleh Google, dan pe
 Salt Player adalah merek dagang yang terdaftar atas nama Xunxun Technology (Shanghai) Co., Ltd di Republik Rakyat Tiongkok
 
 Untuk info hukum lebih lanjut, silakan cek di dalam aplikasi atau situs terkait
+
